@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a student on upm pursuing on software engineering degreee🤝 I’m looking for help with<br><br>I love exploring in new tech and new cultures
+🔭 I’m a student on upm pursuing on software engineering degreee<br><br>I love exploring in new tech and new cultures
 
 
 # 💻 Tech Stack:
